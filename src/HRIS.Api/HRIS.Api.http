@@ -1,0 +1,6 @@
+@HRIS.Api_HostAddress = http://localhost:5225
+
+GET {{HRIS.Api_HostAddress}}/Employees/
+Accept: application/json
+
+###
